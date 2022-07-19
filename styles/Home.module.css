@@ -114,3 +114,11 @@
     flex-direction: column;
   }
 }
+
+
+.img_background{
+
+  z-index: 3;
+  max-width: 100%;
+  height: auto;
+}

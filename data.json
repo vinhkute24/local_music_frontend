@@ -1,0 +1,37 @@
+[
+    { 
+        "key": 1,
+        "name": "Click Pow Get Down",
+        "artist": "Raftaar x Fortnite",
+        "src": "https://static.wikia.nocookie.net/love-live/images/0/0b/01_START%21%21_True_dreams.ogg"
+  
+      },
+      {
+        "key": 2,
+        "name": "Tu Phir Se Aana",
+        "artist": "Raftaar x Salim Merchant x Karma",
+        "src": "https://static.wikia.nocookie.net/love-live/images/0/0b/01_START%21%21_True_dreams.ogg"
+       
+      },
+      {
+        "key": 3,
+        "name": "Memories",
+        "artist": "Maroon 5 ",
+        "src": "https://www.bensound.com/bensound-music/bensound-memories.mp3"
+       
+      },
+      {
+        "key": 4,
+        "name": "Sing me to sleep",
+        "artist": "Alan Walker",
+        "src": "https://cdn.discordapp.com/attachments/775740994595323954/775741533789224960/Alan_Walker_-_Sing_Me_To_SleepMP3_160K.mp3"
+    
+      },
+      {
+        "key": 5,
+        "name": "She-NCS Release",
+        "artist": "Andromedik",
+        "src": "https://cdn.discordapp.com/attachments/775740994595323954/775741544149549096/Andromedik_-_SHE_NCS_ReleaseMP3_160K.mp3"
+       
+      }
+]

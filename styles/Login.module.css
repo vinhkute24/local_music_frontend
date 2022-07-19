@@ -1,0 +1,58 @@
+.form_control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  
+
+.form_group {
+    margin-bottom: 1rem;
+}
+  
+.mx_auto{
+    display: block;
+    max-width: 500px;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-bottom: 1.5rem ;
+    margin-top: 1.5rem;
+}
+.lable_name{
+    margin-bottom: 1rem;
+}
+.img_play{
+    object-fit: fill;
+    
+}
+.container{
+    position: relative;
+    text-align: center;
+}
+.text{
+    position: absolute;
+}
+.song_name{
+    font-size: 30px;
+    font-weight: 500;
+}
+.song_aritist{
+    font-size: 16px;
+    font-style: italic;
+}
+.song_h1{
+    font-size: 35px;
+}
+.song:hover{
+    color: aqua;
+    cursor: pointer;
+}
